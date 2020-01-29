@@ -18,7 +18,7 @@ Developed a model composed of FR-4 board of 20.32 cm * 30.48 cm and 1.59 mm thic
 Successfully optimized the heat sink by finding a best case with a fin count of 19 fins each of 0.5 mm thickness keeping the system at 69.244 degree Celsius and heat sink mass to 0.31659 Kg
 
 
-  <img class="ui image" src="../images/Capture1.PNG">
+  <img class="ui image" src="../images/Capture7.PNG">
   
   <em>Contour of static temperature</em>
   
