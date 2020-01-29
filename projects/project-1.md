@@ -54,7 +54,7 @@ Reduced the Mushy zone using advanced and adaptive meshing technique
   <img class="ui image" src="../images/Capture6.png">
   
 
-  <em>Contour of temperature fraction</em
+  <em>Contour of temperature fraction</em>
 
 
 
