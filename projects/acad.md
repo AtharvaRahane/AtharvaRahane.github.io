@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Capture2.PNG
+image: images/molly.png
 title: Other Projects
 
 # All dates must be YYYY-MM-DD format!
