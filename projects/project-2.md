@@ -1,87 +1,60 @@
-# Project Title
+---
+layout: project
+type: project
+image: images/micromouse.jpg
+title: Fluent Projects
+permalink: projects/micromouse
+# All dates must be YYYY-MM-DD format!
+labels:
+  - Simulation
+  - ANSYS Fluent
+  - Convection Radiation
+summary: I simulated radiative and convective heat transfer using Ansys Fluent.
+---
 
-One Paragraph of project description goes here
+## RADIATION AND NATURAL CONVECTION
+In this project I Used surface to surface model in ANSYS Fluent to model a 3-D room with one heated wall and the room is subjected to radiative and convective heat transfer to the surrounding and computed the temperature patterns inside the room and wall heat flux
 
-## Getting Started
+  <img class="ui image" src="../images/Capture1.PNG">
+  
+  <em>Contour of static temperature</em>
+  
+  
+  
+  <img class="ui image" src="../images/Capture2.PNG">
+  
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+  <em>Contour of wall temperature</em>  
+  
+  
+  
+  <img class="ui image" src="../images/Capture3.PNG">
+  
+  <em>Contour of radiation heat flux</em> 
+  
+  
+  
+  <img class="ui image" src="../images/Capture4.PNG">
+  
+  
+  <em>Vector of velocity magnitude</em>
+    
 
-### Prerequisites
 
-What things you need to install the software and how to install them
+## Multi-phase Modeling and Simulation 
+Modeled melting of phase change material using solidification liquefaction model in ANSYS Fluent
+Reduced the Mushy zone using advanced and adaptive meshing technique
 
-```
-Give examples
-```
+  <img class="ui image" src="../images/Capture5.png">
+  
+  <em>Contour of liquid fraction</em>
+  
+  
+  
+  <img class="ui image" src="../images/Capture6.png">
+  
 
-### Installing
+  <em>Contour of temperature fraction</em>
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
