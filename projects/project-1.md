@@ -112,21 +112,21 @@ The liquid droplet adherence and detachment from a solid surface has received co
 
   <img class="ui image" src="../images/Capture13.png">
   
-  <em>Volume Fraction</em>
+  <em>Volume Fraction and Velocity Profile for Velocity v = 0.1 to 0.3 m/s </em>
   
   
   
   <img class="ui image" src="../images/Capture14.png">
   
 
-  <em>Volume Fraction</em>
+  <em>Volume Fraction and Velocity Profile for Velocity v = 0.5 to 0.8 m/s </em>
   
   
   
   <img class="ui image" src="../images/Capture15.png">
   
 
-  <em>Volume Fraction</em>
+  <em>Volume Fraction and Velocity Profile for Velocity v = 1 m/s </em>
   
   
 As the air velocity increases the deformation increases and at an air velocity of 1m/s the air can be able to deform and detach the droplet partially from the surface. 
