@@ -39,7 +39,7 @@ summary: I simulated radiative and convective heat transfer using Ansys Fluent.
 Used surface to surface model in ANSYS Fluent to model a 3-D room with one heated wall and the room is subjected to radiative and convective heat transfer to the surrounding
 Computed the temperature patterns inside the room and wall heat flux
 
-title: Multi-phase Modeling and Simulation  
+## RAD
 
 
 
