@@ -59,21 +59,22 @@ Reduced the Mushy zone using advanced and adaptive meshing technique
 
 
 ## Analysis of Mixing Effect Inside a Nozzle
+In this project I Investigated the mixing effect inside a converging and diverging nozzle having a injector at the neck by varying the injector pressure to different values in ANSYS Fluent.
 
   <img class="ui image" src="../images/Capture8.png">
   
-  <em>Contour of liquid fraction</em>
+  <em>Velocity contour</em>
   
   
   
   <img class="ui image" src="../images/Capture9.png">
   
 
-  <em>Contour of temperature fraction</em>
+  <em>Pressure contour</em>
   
   
   
   <img class="ui image" src="../images/Capture10.png">
   
 
-  <em>Contour of temperature fraction</em>
+  <em>Temperature contour</em>
