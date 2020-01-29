@@ -12,8 +12,11 @@ labels:
 summary: I simulated radiative and convective heat transfer using Ansys Fluent.
 ---
 
-## RADIATION AND NATURAL CONVECTION
-In this project I Used surface to surface model in ANSYS Fluent to model a 3-D room with one heated wall and the room is subjected to radiative and convective heat transfer to the surrounding and computed the temperature patterns inside the room and wall heat flux
+## Minimizing Thermal Resistance
+In this project I Optimized a heat sink using ANSYS Icepack by minimizing the thermal resistance and reducing the amount of material with temperature constraint of 70 degree Celsius and restrained the total mass of the heat sink to 0.326 Kg
+Developed a model composed of FR-4 board of 20.32 cm * 30.48 cm and 1.59 mm thick with CPU dissipating 50 W and a heat sink placed on top of it
+Successfully optimized the heat sink by finding a best case with a fin count of 19 fins each of 0.5 mm thickness keeping the system at 69.244 degree Celsius and heat sink mass to 0.31659 Kg
+
 
   <img class="ui image" src="../images/Capture1.PNG">
   
