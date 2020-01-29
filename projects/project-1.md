@@ -95,7 +95,7 @@ Investigated the air flow around an unmanned vehicle using Ansys Fluent.
   
   
   
-  <img class="ui image" src="../images/Pressure.jpg">
+  <img class="ui image" src="../images/pressure.jpg">
   
   <em>Pressure contour</em>
   
