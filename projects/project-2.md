@@ -58,4 +58,19 @@ Specified a dynamically updating fan curve and used separate mesh assemblies to 
   <em>Trial 2</em>
 
 
+## Heat Pipe Modeling and Nested Non-Conformal Meshing
+Modeled a heat pipe with orthotropic conductivity with a very large conductivity in the pipe axis direction that connects the heat source to the air-cooled heat sink
+Used nested non-conformal meshing using assemblies in ANSYS Icepack to reduce the cell count in the model and thus reducing the time 
+Increase slack values for faces with a wake region to model the wake more accurately 
 
+
+  <img class="ui image" src="../images/Capture20.png">
+  
+  <em>Temperature contour</em>
+  
+  
+  
+  <img class="ui image" src="../images/Capture19.png">
+  
+
+  <em>Velocity vector field around fan and heat sink</em>
