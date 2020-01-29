@@ -42,7 +42,19 @@ In this project I Used surface to surface model in ANSYS Fluent to model a 3-D r
 
 
 ## Multi-phase Modeling and Simulation 
+Modeled melting of phase change material using solidification liquefaction model in ANSYS Fluent
+Reduced the Mushy zone using advanced and adaptive meshing technique
 
+  <img class="ui image" src="../images/Capture5.png">
+  
+  <em>Contour of liquid fraction</em>
+  
+  
+  
+  <img class="ui image" src="../images/Capture6.png">
+  
+
+  <em>Contour of temperature fraction</em
 
 
 
