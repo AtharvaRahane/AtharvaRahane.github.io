@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Fluent Projects
-permalink: projects/micromouse
+image: images/molly.png
+title: Icepack Projects
+
 # All dates must be YYYY-MM-DD format!
 labels:
   - Simulation
-  - ANSYS Fluent
+  - ANSYS Icepack
   - Convection Radiation
 summary: I simulated radiative and convective heat transfer using Ansys Fluent.
 ---
