@@ -58,3 +58,22 @@ Reduced the Mushy zone using advanced and adaptive meshing technique
 
 
 
+## Analysis of Mixing Effect Inside a Nozzle
+
+  <img class="ui image" src="../images/Capture8.png">
+  
+  <em>Contour of liquid fraction</em>
+  
+  
+  
+  <img class="ui image" src="../images/Capture9.png">
+  
+
+  <em>Contour of temperature fraction</em>
+  
+  
+  
+  <img class="ui image" src="../images/Capture10.png">
+  
+
+  <em>Contour of temperature fraction</em>
