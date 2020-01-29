@@ -13,7 +13,7 @@ summary: I simulated radiative and convective heat transfer using Ansys Fluent.
 ---
 
 
-  <img class="ui image" src="../images/Capture1.png">
+  <img class="ui image" src="../images/molly.png">
   <img class="ui image" src="../images/Capture2.png">
   <img class="ui image" src="../images/Capture3.png">
   <img class="ui image" src="../images/Capture4.png">
