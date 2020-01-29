@@ -2,56 +2,49 @@
   "basics": {
     "name": "Atharva Rahane",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/atty (2).png",
+    "picture": "https://AtharvaRahane.github.io/mages/atty (2).png",
     "email": "arahane@mtu.edu",
     "phone": "906-370-6846",
     "website": "https://atharvarahane.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a Master's in Mechanical Engineering at the Michigan Technological University. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "2012-D, Woodmar drive",
+      "postalCode": "49931",
+      "city": "Houghton",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Michigan"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "AtharvaRahane",
+        "url": "http://github.com/AtharvaRahane"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Atharva Rahane",
+        "url": "http://linkedin.com/in/atharva-rahane"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Thermal Management",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Fluid Mechanics",
+      "keywords": [
+      ]
+    },
+       {
+      "name": "Phase Change Multi-phase Flow",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Computational Fluid Dynamics",
       "keywords": [
       ]
     }
