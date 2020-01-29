@@ -20,33 +20,13 @@ Successfully optimized the heat sink by finding a best case with a fin count of 
 
   <img class="ui image" src="../images/Capture7.png">
   
-  <em>Contour of static temperature</em>
-  
-  
-  
-  <img class="ui image" src="../images/Capture2.PNG">
-  
+  <em>Table of Optimization, Candidate points</em>
 
-  <em>Contour of wall temperature</em>  
   
-  
-  
-  <img class="ui image" src="../images/Capture3.PNG">
-  
-  <em>Contour of radiation heat flux</em> 
-  
-  
-  
-  <img class="ui image" src="../images/Capture4.PNG">
-  
-  
-  <em>Vector of velocity magnitude</em>
-    
+ ## Reduced Ordered Model 
+Created a step response file using ANSYS Icepack and created a Reduced Ordered Model (ROM) in ANSYS Twin Builder to determine the temperature rise from 4 Field Effect Transistor (FET) placed on board which are thermally managed by forced convection
+Create a ROM which can efficiently calculate temperatures at the pre-defined outputs under any transient heat dissipation scenario
 
-
-## Multi-phase Modeling and Simulation 
-Modeled melting of phase change material using solidification liquefaction model in ANSYS Fluent
-Reduced the Mushy zone using advanced and adaptive meshing technique
 
   <img class="ui image" src="../images/Capture5.png">
   
