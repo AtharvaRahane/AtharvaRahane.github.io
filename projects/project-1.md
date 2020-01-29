@@ -105,3 +105,29 @@ Investigated the air flow around an unmanned vehicle using Ansys Fluent.
   
 
   <em>Turbulence contour</em>
+
+## Measurement of Critical Velocity for the detachment of water droplet from the solid surface 
+The liquid droplet adherence and detachment from a solid surface has received considerable attention due to its importance in many engineering applications such as surface decontamination, oil recovery, condensers, air conditioning systems etc.., In an air conditioning system if some liquid contaminants are detached from the ventilation duct surface and supplied to the room, then the supplied air quality would decrease which is not desirable. In oil recovery also this concept has applications, the oil recovery depends on the ability of the fluid to displace oil droplets. In condensers the liquid droplet detachment from the condensing surface is of much importance because the droplet has to be removed from the condensing surface so that new vapor comes into contact with the condensing surface. 
+
+
+  <img class="ui image" src="../images/Capture13.png">
+  
+  <em>Volume Fraction</em>
+  
+  
+  
+  <img class="ui image" src="../images/Capture14.png">
+  
+
+  <em>Volume Fraction</em>
+  
+  
+  
+  <img class="ui image" src="../images/Capture15.png">
+  
+
+  <em>Volume Fraction</em>
+  
+  
+As the air velocity increases the deformation increases and at an air velocity of 1m/s the air can be able to deform and detach the droplet partially from the surface. 
+So the critical velocity for detaching the droplet of 500 micron diameter from a surface having contact angle of 1300 is around 1m/s. 	
