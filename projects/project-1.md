@@ -78,3 +78,17 @@ In this project I Investigated the mixing effect inside a converging and divergi
   
 
   <em>Temperature contour</em>
+  
+  ## Aerodynamics of an Unmanned Vehicle
+Investigated the air flow around an unmanned vehicle using Ansys Fluent.
+
+  <img class="ui image" src="../images/Capture11.png">
+  
+  <em>Velocity contour</em>
+  
+  
+  
+  <img class="ui image" src="../images/Capture12.png">
+  
+
+  <em>Pressure contour</em>
