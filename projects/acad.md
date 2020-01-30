@@ -84,3 +84,10 @@ In this study considering various conditions like the variation of load, ambient
 <img class="ui image" src="../images/Capture39.png">
 
 <em>Basic Schematic of Solar Energy Operated System</em>
+
+
+
+<img class="ui image" src="../images/Capture40.png">
+<img class="ui image" src="../images/Capture41.png">
+
+<em>Simulation Using Matlab/Simulink For Battery Sizing</em>
