@@ -24,3 +24,8 @@ Following results were obtained using the developed algorithm
 <em>Result</em>
 
 Class "0" represents mixed flow, class "1" represent ascending flow and class "2" as draining flow.
+
+## Asymptotic (Perturbation) solution of an oscillator
+<img class="ui image" src="../images/Capture45.png">
+<img class="ui image" src="../images/Capture46.png">
+<img class="ui image" src="../images/Capture47.png">
