@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/CHIP.jpg
 title: Research Project
 permalink: projects/Electronic_cooling
 # All dates must be YYYY-MM-DD format!
