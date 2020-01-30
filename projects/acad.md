@@ -96,7 +96,7 @@ In this study considering various conditions like the variation of load, ambient
 To check the working of the battery sizing model we tested four cases considering varying ambient scenarios. The results of the test are 
 shown in the below table.
 
-<img class="ui image" src="../images/Capture42.PNG">
+<img class="ui image" src="../images/Capture420.PNG">
 
 As mentioned earlier various parameters such as peak sun hour duration, ambient temperature, number of autonomy days, load, depth of discharge plays a vital part in battery sizing.
 
