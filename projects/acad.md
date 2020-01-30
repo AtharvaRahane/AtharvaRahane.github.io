@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/molly.png
+image: images/SOL.jpg
 title: Thermal Management and Solar
 
 # All dates must be YYYY-MM-DD format!
@@ -9,7 +9,7 @@ labels:
   - Thermal Management
   - Electronic Cooling
   - Heat Pipe, Phase Change Material
-summary: Research and Academic Projects.
+summary: Battery Thermal Management and Solar Related Projects.
 ---
 
 ## Thermal management of electric vehicle battery during ultra-fast charging
