@@ -16,4 +16,21 @@ summary: Novel Approach For High Power Density Electronic Cooling.
 A novel flow boiling using micro-nucleation to cool electronic chips is developed. 
   <img class="ui image" src="../images/Capture30.PNG">
   
+  <img class="ui image" src="../images/Capture31.PNG">
+  
+  <img class="ui image" src="../images/Capture32.PNG">
+  
+  <img class="ui image" src="../images/Capture33.PNG">
+  
+  <img class="ui image" src="../images/Capture34.PNG">
+  
+  <img class="ui image" src="../images/Capture35.PNG">
+  
+  <img class="ui image" src="../images/Capture36.PNG">
+  
+  <img class="ui image" src="../images/Capture37.PNG">
+  
+  <img class="ui image" src="../images/Capture38.PNG">
+
+  
  
