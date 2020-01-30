@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/molly.png
+image: images/PROG.jpg
 title: Fluid Mechanics Programming
 
 # All dates must be YYYY-MM-DD format!
@@ -9,7 +9,7 @@ labels:
   - Mathematica
   - Python
   - Machine Learning
-summary: Research and Academic Projects.
+summary: Programming Projects.
 ---
 ## Flow Classification Using Machine Learning
 Classified the following flow as NRe driven flow "ascending flow", NFr driven flow "draining flow" and a mixture "mixed flow" using machine learning.
