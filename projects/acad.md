@@ -53,7 +53,9 @@ The heat pipes quickly transported the heat generated inside the battery to the 
 **New cooling cell design**
 
 
-  <img class="ui image" src="../images/Capture25.png" width="300">  <img class="ui image" src="../images/Capture26.png">  <img class="ui image" src="../images/Capture27.png" width="300">                   
+  <img align="left" src="../images/Capture25.png" width="200">  
+  <img class="ui image" src="../images/Capture26.png" width ="200">  
+  <img class="ui image" src="../images/Capture27.png" width="200">                   
   <em>Cooling Cell Having PCM (green color) Heat pipe (copper color) and Cold Plate at The Bottom</em>  
 
 
