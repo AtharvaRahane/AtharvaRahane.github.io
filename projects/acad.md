@@ -110,14 +110,14 @@ The load has been kept constant for all the cases to get a more in-depth intuiti
 ## Linear Fresnel Concentrating Solar Collectors for evaluating thermal performance of different fluids
 A model of fresnel lens solar concentrator and a heat exchanger which also acted as an absorber was used to evaluate thermal performance of ethylene glycol, water and engine oil.
 
-<img class="ui image" src="../images/Capture66.jpg" width="200">
+<img class="ui image" src="../images/Capture66.jpg">
 <em>Heat Exchanger</em>
 
-<img class="ui image" src="../images/Capture65.jpg" width="200">
+<img class="ui image" src="../images/Capture65.jpg">
 <em>Fresnel Lens Concentrator</em>
 
-<img class="ui image" src="../images/Capture67.jpg" width="200">
+<img class="ui image" src="../images/Capture67.jpg">
 <em>Experimental Setup</em>
 
-<img class="ui image" src="../images/Capture68.jpg" width="200">
+<img class="ui image" src="../images/Capture68.jpg">
 <em>Result</em>
