@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Fluent Projects
+title: Research Project
 permalink: projects/Electronic_cooling
 # All dates must be YYYY-MM-DD format!
 labels:
