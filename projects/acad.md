@@ -60,7 +60,7 @@ The heat pipes quickly transported the heat generated inside the battery to the 
 
   <img class="ui image" src="../images/Capture25.png">                             <img class="ui image" src="../images/Capture26.png">
   
-  <em>(Left) Cooling Cell Made of Aluminum Having Space For Inserting Heat Pipe</em> {align="left"}          <em> (Right) Heat Pipe</em>
+  <em>(Left) Cooling Cell Made of Aluminum Having Space For Inserting Heat Pipe</em> <><><>        <em> (Right) Heat Pipe</em>
   
   
   
