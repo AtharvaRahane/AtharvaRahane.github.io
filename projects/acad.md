@@ -70,8 +70,8 @@ The heat pipes quickly transported the heat generated inside the battery to the 
 The new cooling cell approach was effective in maintaining a uniform temperature distribution across the battery cell which was achieved by the phase change material
 The heat pipe was sucesfull in dissipating the heat generated from the battery cell to the coldplate maintaining the temperature below 45 degree C.
 
-<img align="left" src="../images/Capture28.png" alt="Made with Angular" title="Angular" hspace="20"/>
-<img align="left" src="../images/Capture29.png" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
-<img align="left" src="../images/Capture27.png" alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
+<img align="left" src="../images/Capture28.png" width="100" alt="Made with Angular" title="Angular" hspace="20"/>
+<img align="left" src="../images/Capture29.png" width="100" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
+<img align="left" src="../images/Capture27.png" width="100" alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
 <br/><br/><br/><br/><br/>
 
