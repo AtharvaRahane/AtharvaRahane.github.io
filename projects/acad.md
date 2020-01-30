@@ -84,3 +84,6 @@ The heat pipes quickly transported the heat generated inside the battery to the 
 **Results and Conclusion from preliminary design**
 The new cooling cell approach was effective in maintaining a uniform temperature distribution across the battery cell which was achieved by the phase change material
 The heat pipe was sucesfull in dissipating the heat generated from the battery cell to the coldplate maintaining the temperature below 45 degree C.
+
+
+![myimg](images/Capture28.png){: height="75px" width="300px" align="left"}
