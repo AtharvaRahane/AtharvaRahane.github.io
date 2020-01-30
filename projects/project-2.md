@@ -8,7 +8,7 @@ title: ANSYS Icepack Projects
 labels:
   - Simulation
   - ANSYS Icepack
-  - Convection Radiation
+  - Optimization
 summary: Electronic Cooling Simulations.
 ---
 
