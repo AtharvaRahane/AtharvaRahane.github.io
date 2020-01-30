@@ -59,13 +59,9 @@ The heat pipes quickly transported the heat generated inside the battery to the 
 
   
 <img align="left" src="../images/Capture28.png" width="300">
-<img class="ui image" src="../images/Capture25.png" width="300">
+<img class="ui image" src="../images/Capture29.png" width="300">
 
-  
-  
-  
-  
- <em>Cooling Cell Assembly Installed Between Two Battery Cell(Yellow)</em>
+<em>Cooling Cell Assembly Installed Between Two Battery Cell(Yellow)</em>
   
   
 
