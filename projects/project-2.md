@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/molly.png
-title: Icepack Projects
+image: images/ICE.jpg
+title: ANSYS Icepack Projects
 
 # All dates must be YYYY-MM-DD format!
 labels:
   - Simulation
   - ANSYS Icepack
   - Convection Radiation
-summary: I simulated radiative and convective heat transfer using Ansys Fluent.
+summary: Electronic Cooling Simulations.
 ---
 
 ## Minimizing Thermal Resistance
