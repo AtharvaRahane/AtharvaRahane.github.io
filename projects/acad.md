@@ -106,3 +106,8 @@ With the variation in ambient temperature from the optimum operating condition (
 The results obtained by varying the inputs to various scenarios prove that the above cases test the validity of the model under various extremities. The model provides accurate results to the user and thus based on the number of solar panels and batteries the user can also estimate the cost.
 
 The load has been kept constant for all the cases to get a more in-depth intuition of how other variables affect the battery sizing. Comparing case 1 and case 2 it can be seen how increase in depth of discharge decreases the number of batteries, but it also decreases the battery lifetime. From case 3 and case 4 with decreases in the autonomy days there is a significant decrease in the number of batteries and solar panel required which reduces the cost of sizing. Case 5 and case 6 are the most optimum and most extreme conditions faced by an oil and gas plant. Which results in maximum and minimum battery lifetime respectively.
+
+## Flow Classification Using Machine Learning
+Classified the following flow as NRe driven flow "ascending flow", NFr driven flow "draining flow" and a mixture "mixed flow" using machine learning.
+Developed a fuzzy c mean clustering code using python to classify the flow type.
+
