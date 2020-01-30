@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Fluent Projects
-permalink: projects/micromouse
+image: images/FLU.PNG
+title: ANSYS Fluent Projects
+permalink: projects/Fluent
 # All dates must be YYYY-MM-DD format!
 labels:
   - Simulation
