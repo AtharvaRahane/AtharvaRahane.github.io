@@ -17,12 +17,13 @@ Ultra-fast charging involves charging a 50 KWh Li-Ion battery within 10-15 minut
 The temperature of the battery has to be below 45 degree C so as to avoid a significant reduction in performance as well as life time. 
 A cellular level thermal management approach was developed. 
 
+**Preliminary cellular level approach of battery cooling**
+A battery is made up of multiple cells as shown in the below figure. The cells are combine together to form a battery module. Multiple modules are brought together to form a battery stack. 
+
   <img class="ui image" src="../images/Capture22.png">
   
-  <em>Contour of static temperature</em>
-
-**Preliminary cellular level approach of battery cooling**
-A battery is made up of multiple cells as shown in Fig.1. The cells are combine together to form a battery module. Multiple modules are brought together to form a battery stack. 
+  <em>Battery cells combined together to form a module</em>
+  
 
 **Physics behind cooling cell**
 Figure 2 shows a cooling cell which was initially designed to be placed within two battery cells. 
