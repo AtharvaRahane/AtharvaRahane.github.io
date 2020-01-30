@@ -17,7 +17,7 @@ Ultra-fast charging involves charging a 50 KWh Li-Ion battery within 10-15 minut
 The temperature of the battery has to be below 45 degree C so as to avoid a significant reduction in performance as well as life time. 
 A cellular level thermal management approach was developed. 
 
-  <img class="ui image" src="../images/Capture22.PNG">
+  <img class="ui image" src="../images/Capture22.png">
   
   <em>Contour of static temperature</em>
 
