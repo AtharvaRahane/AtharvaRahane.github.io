@@ -6,14 +6,13 @@ title: Research Project
 permalink: projects/Electronic_cooling
 # All dates must be YYYY-MM-DD format!
 labels:
-  - Simulation
-  - ANSYS Fluent
-  - Convection Radiation
+  - Electronic Chip Cooling
+  - Novel Approach
+  - Flow Boiling
 summary: Novel Approach For High Power Density Electronic Cooling.
 ---
 
 ## Piezo-induced shear-mode resonant acoustic excitations of meshed boiling-surfaces for enhanced flow-boiling operations for next generation heat-sinks
-In this project I Used surface to surface model in ANSYS Fluent to model a 3-D room with one heated wall and the room is subjected to radiative and convective heat transfer to the surrounding and computed the temperature patterns inside the room and wall heat flux
 
   <img class="ui image" src="../images/Capture1.PNG">
   
