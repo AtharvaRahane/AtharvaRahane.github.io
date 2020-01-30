@@ -6,8 +6,8 @@ title: Thermal Management and Solar
 
 # All dates must be YYYY-MM-DD format!
 labels:
-  - Thermal Management
-  - Electronic Cooling
+  - Battery
+  - Thermal Performance
   - Heat Pipe, Phase Change Material
 summary: Battery Thermal Management and Solar Related Projects.
 ---
