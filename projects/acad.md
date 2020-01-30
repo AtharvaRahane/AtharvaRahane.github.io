@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: images/molly.png
-title: Other Projects
+title: Battery Thermal Management
 
 # All dates must be YYYY-MM-DD format!
 labels:
   - Thermal Management
   - Electronic Cooling
-  - Matlab, Simulink, Python
+  - Heat Pipe, Phase Change Material
 summary: Research and Academic Projects.
 ---
 
