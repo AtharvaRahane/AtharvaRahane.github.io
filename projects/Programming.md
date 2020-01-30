@@ -27,4 +27,14 @@ Class "0" represents mixed flow, class "1" represent ascending flow and class "2
 
 ## Asymptotic (Perturbation) solution of an oscillator
 A comparision is made between the exact solution and an asymptotic solution generated using Mathematica to solve the linear oscillator weak damping equation.
-<img class="ui image" src="../images/Capture51.PNG">
+<img class="ui image" src="../images/Capture52.PNG">
+
+Following is the obtained solution 
+<img class="ui image" src="../images/Capture53.jpg">
+<em>x=5, b=0.4</em>
+
+<img class="ui image" src="../images/Capture54.jpg">
+<em>x=30, b=0.4</em>
+
+<img class="ui image" src="../images/Capture55.jpg">
+<em>x=30, b=0.04</em>
