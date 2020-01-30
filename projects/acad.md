@@ -107,16 +107,3 @@ The results obtained by varying the inputs to various scenarios prove that the a
 
 The load has been kept constant for all the cases to get a more in-depth intuition of how other variables affect the battery sizing. Comparing case 1 and case 2 it can be seen how increase in depth of discharge decreases the number of batteries, but it also decreases the battery lifetime. From case 3 and case 4 with decreases in the autonomy days there is a significant decrease in the number of batteries and solar panel required which reduces the cost of sizing. Case 5 and case 6 are the most optimum and most extreme conditions faced by an oil and gas plant. Which results in maximum and minimum battery lifetime respectively.
 
-## Flow Classification Using Machine Learning
-Classified the following flow as NRe driven flow "ascending flow", NFr driven flow "draining flow" and a mixture "mixed flow" using machine learning.
-Developed a fuzzy c mean clustering code using python to classify the flow type.
-
-<img class="ui image" src="../images/Capture43.png">
-<em>Above Given is The Input Data</em>
-
-Following results were obtained using the developed algorithm
-
-<img class="ui image" src="../images/Capture44.png">
-<em>Result</em>
-
-Class "0" represents mixed flow, class "1" represent ascending flow and class "2" as draining flow.
