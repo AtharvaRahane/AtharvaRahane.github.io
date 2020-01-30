@@ -86,4 +86,4 @@ The new cooling cell approach was effective in maintaining a uniform temperature
 The heat pipe was sucesfull in dissipating the heat generated from the battery cell to the coldplate maintaining the temperature below 45 degree C.
 
 
-![](images/Capture28.png){: height="75px" width="300px" align="left"}
+![](https://AtharvaRahane.github.io/images/Capture28.png){: height="75px" width="300px" align="left"}
