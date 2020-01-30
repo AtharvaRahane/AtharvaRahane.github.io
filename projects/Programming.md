@@ -40,3 +40,18 @@ A comparision is made between the exact solution and an asymptotic solution gene
 
 <img class="ui image" src="../images/Capture55.jpg">
 <em>x=30, b=0.04</em>
+
+##  Blassius Boundary Layer Equation for the Prandtl Boundary Layer Theory
+
+
+<img class="ui image" src="../images/Capture56.PNG">
+
+
+**Following are the obtained solutions**
+
+<img class="ui image" src="../images/Capture57.jpg">
+<em> Comparison of Numerical and Approximate solution for a boundary layer of thickness(x) = 10. The boundary layer ranges from x = 0 (near surface) to x = 10 (Free stream)</em>
+
+
+<img class="ui image" src="../images/Capture58.jpg">
+<em> Comparison of Numerical and Approximate velocity profile for a boundary layer of thickness(x) = 10. The boundary layer ranges from x = 0 (near surface) to x = 10 (Free stream)</em>
