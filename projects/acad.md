@@ -71,7 +71,7 @@ The heat pipes quickly transported the heat generated inside the battery to the 
   
   
   
-  <img class="ui image" src="../images/Capture28.png">                
+  <img class="ui image" src="../images/Capture28.png" width="100">                
   
   <em>Cooling Cell Assembly Installed Between Two Battery Cell(Yellow)</em>
   
@@ -86,4 +86,3 @@ The new cooling cell approach was effective in maintaining a uniform temperature
 The heat pipe was sucesfull in dissipating the heat generated from the battery cell to the coldplate maintaining the temperature below 45 degree C.
 
 
-![](https://AtharvaRahane.github.io/images/Capture28.png){: height="75px" width="300px" align="left"}
