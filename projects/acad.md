@@ -111,13 +111,13 @@ The load has been kept constant for all the cases to get a more in-depth intuiti
 Classified the following flow as NRe driven flow "ascending flow", NFr driven flow "draining flow" and a mixture "mixed flow" using machine learning.
 Developed a fuzzy c mean clustering code using python to classify the flow type.
 
-<img class="ui image" src="../images/Capture43.PNG">
+<img class="ui image" src="../images/Capture43.png">
 
 <em>Above Given is The Input Data</em>
 
 Following results were obtained using the developed algorithm
 
-<img class="ui image" src="../images/Capture44.PNG">
+<img class="ui image" src="../images/Capture44.png">
 
 <em>Result</em>
 
