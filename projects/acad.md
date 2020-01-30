@@ -57,8 +57,10 @@ The heat pipes quickly transported the heat generated inside the battery to the 
   <em>Cooling Cell Having PCM (green color) Heat pipe (copper color) and Cold Plate at The Bottom</em>  
 
 
-  
-  <img class="ui image" src="../images/Capture28.png" width="300">      <img class="ui image" src="../images/Capture29.png" width="300">
+  <p float="left">
+  <img class="ui image" src="../images/Capture28.png" width="300"/>      
+  <img class="ui image" src="../images/Capture29.png" width="300"/>
+  </p>
   
   <em>Cooling Cell Assembly Installed Between Two Battery Cell(Yellow)</em>
   
@@ -68,7 +70,5 @@ The heat pipes quickly transported the heat generated inside the battery to the 
 The new cooling cell approach was effective in maintaining a uniform temperature distribution across the battery cell which was achieved by the phase change material
 The heat pipe was sucesfull in dissipating the heat generated from the battery cell to the coldplate maintaining the temperature below 45 degree C.
 
- Cooling Cell Assembly Installed Between Two Battery Cell(Yellow)
-:-------------------------:|:-------------------------:
-<img class="ui image" src="../images/Capture28.png" width="300">  |  <img class="ui image" src="../images/Capture29.png" width="250">
+
 
