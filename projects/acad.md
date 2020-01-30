@@ -57,11 +57,11 @@ Heat pipes work on the similar principle of evaporation, condensation and wickin
 The heat pipes quickly transported the heat generated inside the battery to the coldplate which dissipated the heat from the heat pipes.
 
 **New cooling cell design**
-
-  <img class="ui image" src="../images/Capture25.png">                             <img class="ui image" src="../images/Capture26.png">
+<p>
+  <img class="ui image" src="../images/Capture25.png" alt>                             <img class="ui image" src="../images/Capture26.png">
   
   <em>(Left) Cooling Cell Made of Aluminum Having Space For Inserting Heat Pipe</em>  <br />     <em> (Right) Heat Pipe</em>
-  
+</p>
   
   
   <img class="ui image" src="../images/Capture27.png">
