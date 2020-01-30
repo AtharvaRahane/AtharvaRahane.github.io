@@ -55,3 +55,5 @@ A comparision is made between the exact solution and an asymptotic solution gene
 
 <img class="ui image" src="../images/Capture58.jpg">
 <em> Comparison of Numerical and Approximate velocity profile for a boundary layer of thickness(x) = 10. The boundary layer ranges from x = 0 (near surface) to x = 10 (Free stream)</em>
+
+
