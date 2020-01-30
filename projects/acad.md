@@ -58,11 +58,14 @@ The heat pipes quickly transported the heat generated inside the battery to the 
 
 **New cooling cell design**
 <p>
-  <img class="ui image" src="../images/Capture25.png" alt>                             <img class="ui image" src="../images/Capture26.png">
-  
-  <em>(Left) Cooling Cell Made of Aluminum Having Space For Inserting Heat Pipe</em>  <br />     <em> (Right) Heat Pipe</em>
+  <img class="ui image" src="../images/Capture25.png" alt>                             
+  <em>(Left) Cooling Cell Made of Aluminum Having Space For Inserting Heat Pipe</em>  <br />     
 </p>
-  
+
+<p>
+<img class="ui image" src="../images/Capture26.png" alt>  
+<em> (Right) Heat Pipe</em>
+</p>  
   
   <img class="ui image" src="../images/Capture27.png">
   
