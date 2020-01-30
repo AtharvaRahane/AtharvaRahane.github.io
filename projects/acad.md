@@ -60,7 +60,7 @@ The heat pipes quickly transported the heat generated inside the battery to the 
   
 <img align="left" src="../images/Capture28.png" width="300" alt="Made with Angular" title="Angular" hspace="20"/>
 <img align="left" src="../images/Capture29.png" width="300" alt="Made with Bootstrap" title="Bootstrap" hspace="20"/>
-
+</br></br>
   
   
   
