@@ -8,8 +8,8 @@ permalink: projects/Fluent
 labels:
   - Simulation
   - ANSYS Fluent
-  - Convection Radiation
-summary: I simulated radiative and convective heat transfer using Ansys Fluent.
+  - Multi-phase/phase change flow
+summary: Fluid Flow, Conduction, Convection, Radiation and Phase Change Processes.
 ---
 
 ## RADIATION AND NATURAL CONVECTION
