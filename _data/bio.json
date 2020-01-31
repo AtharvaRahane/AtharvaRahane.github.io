@@ -98,7 +98,7 @@
   ],
   "work": [
     {
-      "company": "Om Sai Tools <P ALIGN=RIGHT>(Jan - Jun 2018).</P>", 
+      "company": "Om Sai Tools (Jan - Jun 2018)", 
       "position": "Model Based System Engineer Intern",
       "website": "",
       "summary": "",
@@ -139,6 +139,28 @@
       "highlights": [
         "Developed an eﬀective way to dissipate large amount of heat released from an electric vehicle battery during Ultra-Fast Charging",
         "Designed a passive Cooling Cell using Phase Change Material(PCM) to maintain the battery cell temperature in the range of optimum operating conditions"        
+      ]
+    },
+        {
+      "organization": "Michigan Technological Univeristy (Aug 2019 - Present)",
+      "website": "",
+      "position": "Teaching Assitant",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Mentored 50+ students and conducted weekly laboratory experiments"              
+      ]
+    },
+       {
+      "organization": "Michigan Technological Univeristy",
+      "website": "",
+      "position": "Senior Design Team CFD Simulation Mentor",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Mentored senior year design team for design and CFD simulation"              
       ]
     }
   ],
