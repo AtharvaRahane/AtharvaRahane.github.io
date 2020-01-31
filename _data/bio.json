@@ -86,9 +86,15 @@
       "startDate": "2018",
       "endDate": "Present",
       "gpa": "3.84",
-      "courses": [Advance Heat Transfer, Advance Fluid Mechanics, Computational Fluid Dynamics, Computational Fluid Engineering, Phase Change Multi Phase Flow, Thermodynamics, Energy Storage System
+      "courses": [
       ]
-    }
+    },
+    {"institution": "Savitribai Phule Pune University, Maharashtra, India",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2013",
+      "endDate": "2017",
+    },
   ],
   "work": [
     {
