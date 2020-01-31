@@ -98,27 +98,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Om Sai Tools",
+      "position": "Model Based System Engineer Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "JAN 2018",
+      "endDate": "JUN 2018",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed a computational model using ANSYS for thermal analysis of multiple precision stamped electronic components",
+        "Prepared multiple simulation cases and studied the heat transmitted from the component to the electronic circuit board"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Allied Metal and Pressing",
+      "position": "Thermal Intern",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "JUN 2017",
+      "endDate": "NOV 2017",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Performed thermal analysis on a Butt welded joint with temperature dependent thermal properties varying from 300K to 2000K",
+        "Performed transient thermal analysis of cooling of ST-37 under natural convection with a heat transfer coeﬃcient of 13W/sq.m K"
       ]
     }
   ],
