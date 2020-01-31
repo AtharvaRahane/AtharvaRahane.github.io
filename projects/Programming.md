@@ -25,7 +25,7 @@ Following results were obtained using the developed algorithm
 
 Class "0" represents mixed flow, class "1" represent ascending flow and class "2" as draining flow.
 
-## Asymptotic (Perturbation) solution of an oscillator
+## Asymptotic (Perturbation) Solution of an Oscillator
 A comparision is made between the exact solution and an asymptotic solution generated using Mathematica to solve the linear oscillator weak damping equation.
 <img class="ui image" src="../images/Capture52.PNG">
 
@@ -41,7 +41,7 @@ A comparision is made between the exact solution and an asymptotic solution gene
 <img class="ui image" src="../images/Capture55.jpg">
 <em>x=30, b=0.04</em>
 
-## Blassius Boundary Layer Equation for the Prandtl Boundary Layer Theory
+## Blassius Boundary Layer Equation For The Prandtl Boundary Layer Theory
 
 
 <img class="ui image" src="../images/Capture56.PNG">
@@ -56,7 +56,7 @@ A comparision is made between the exact solution and an asymptotic solution gene
 <img class="ui image" src="../images/Capture58.jpg">
 <em> Comparison of Numerical and Approximate velocity profile for a boundary layer of thickness(x) = 10. The boundary layer ranges from x = 0 (near surface) to x = 10 (Free stream)</em>
 
-## Transitions in the KURAMOTO-SIVASHINKSY equation
+## Transitions in The KURAMOTO-SIVASHINKSY Equation
 
 **The KURAMOTO-SIVASHINKSY equation is given by**
 
