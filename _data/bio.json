@@ -128,7 +128,7 @@
       "summary": "Cooling of High power Density Electronics",
       "highlights": [
         "Contributed in a team to develop a cooling system for electronics, using micro-structured mesh and piezo electric transducers",
-        "Performed test section (ﬂow channel) and heater block simulations in conjunction with experimentally generated output to obtain the heat ﬂux and temperature distribution over the ﬂow channel using ANSYS FLUENT",
+        "Performed test section (ﬂow channel) and heater block simulations in conjunction with experimentally generated output to obtain the heat ﬂux and temperature distribution over the ﬂow channel using Fluent",
         "Developed novel technology which has an increase in heat transfer eﬃciency by 700% and decrease in driving temperature diﬀerence by 80-90% compared to the conventional ﬂow-boiling approach"
       ]
     },
