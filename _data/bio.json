@@ -118,7 +118,7 @@
   ],
   "volunteer": [
     {
-      "organization": "Michigan Technological Univeristy (Jul 2019 - Present)",
+      "organization": "Michigan Technological Univeristy",
       "website": "",
       "position": "Student Researcher",
       "startDate": "2019",
@@ -130,11 +130,11 @@
       ]
     },
     {
-      "organization": "Michigan Technological Univeristy (Nov 2018 - Jun 2019)",
+      "organization": "Michigan Technological Univeristy",
       "website": "",
       "position": "Student Researcher",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2018",
+      "endDate": "2019",
       "summary": "Thermal Management of Electric Vehicle Battery",
       "highlights": [
         "Developed an eﬀective way to dissipate large amount of heat released from an electric vehicle battery during Ultra-Fast Charging",
@@ -142,11 +142,11 @@
       ]
     },
         {
-      "organization": "Michigan Technological Univeristy (Aug 2019 - Present)",
+      "organization": "Michigan Technological Univeristy",
       "website": "",
       "position": "Teaching Assitant",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2019",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Mentored 50+ students and conducted weekly laboratory experiments"              
