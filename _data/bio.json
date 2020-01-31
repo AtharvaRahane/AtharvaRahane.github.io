@@ -103,8 +103,7 @@
       "website": "",
       "summary": "",
       "highlights": [
-        "Developed a computational model using ANSYS for thermal analysis of multiple precision stamped electronic components",
-        "Prepared multiple simulation cases and studied the heat transmitted by the electronic components to the circuit board"
+        "Performed thermal analysis on electronic components, prepared simulation cases and studied the heat transmitted by the electronic components to the circuit board"
       ]
     },
     {
@@ -113,8 +112,7 @@
       "website": "",
       "summary": "",
       "highlights": [
-        "Performed thermal analysis on a Butt welded joint with temperature dependent thermal properties varying from 300K to 2000K",
-        "Performed transient thermal analysis of cooling of ST-37 under natural convection with a heat transfer coeﬃcient of 13W/sq.m K"
+        "Performed thermal analysis on welded joints"     
       ]
     }
   ],
@@ -128,8 +126,7 @@
       "summary": "Cooling of High power Density Electronics",
       "highlights": [
         "Contributed in a team to develop a cooling system for electronics, using micro-structured mesh and piezo electric transducers",
-        "Performed test section (ﬂow channel) and heater block simulations in conjunction with experimentally generated output to obtain the heat ﬂux and temperature distribution over the ﬂow channel using Fluent",
-        "Developed novel technology which has an increase in heat transfer eﬃciency by 700% and decrease in driving temperature diﬀerence by 80-90% compared to the conventional ﬂow-boiling approach"
+        "Performed simulations to analyze results in conjunction with the experimental data"       
       ]
     },
     {
@@ -140,9 +137,8 @@
       "endDate": "",
       "summary": "Thermal Management of Electric Vehicle Battery",
       "highlights": [
-        "Developed an eﬀective way to dissipate large amount of heat released from an electric vehicle battery during Ultra-Fast Charging (10-15 minutes for charging 50 KWh Li-Ion battery)",
-        "Designed a passive Cooling Cell using Phase Change Material(PCM) to maintain the battery cell temperature below 45◦C and temperature gradient across the battery cell below 5◦C",
-        "Performed multi-phase simulation using solidiﬁcation-liquefaction model to simulate melting of a phase change material and reduced the mushy zone using adaptive meshing technique"
+        "Developed an eﬀective way to dissipate large amount of heat released from an electric vehicle battery during Ultra-Fast Charging",
+        "Designed a passive Cooling Cell using Phase Change Material(PCM) to maintain the battery cell temperature"        
       ]
     }
   ],
