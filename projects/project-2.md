@@ -40,7 +40,7 @@ Create a ROM which can efficiently calculate temperatures at the pre-defined out
   <em>Temperature Results</em>
 
 
- ## Parameterization Using ANSYS Icepack to Optimize Fan Location
+## Parameterization Using ANSYS Icepack to Optimize Fan Location
 Developed a system level model consisting of series of IC chips on a PCB which is cooled by a fan via forced convection having a bonded fin extruded heat sink attached to the IC chip
 Carried a study to determine the optimum location of the fan using the parametrization study feature in ANSYS Icepack 
 Specified a dynamically updating fan curve and used separate mesh assemblies to reduce the mesh count and generated a summary report for multiple solutions
