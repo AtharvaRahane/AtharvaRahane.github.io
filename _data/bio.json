@@ -98,7 +98,7 @@
   ],
   "work": [
     {
-      "company": "Om Sai Tools &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jan - Jun 2018",
+      "company": "Om Sai Tools (Jan - Jun 2018)",
       "position": "Model Based System Engineer Intern",
       "website": "",
       "summary": "",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "company": "Allied Metal and Pressing",
+      "company": "Allied Metal and Pressing (Jun - Nov 2017)",
       "position": "Thermal Intern",
       "website": "",
       "summary": "",
@@ -120,28 +120,29 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Michigan Technological Univeristy (Jul 2019 - Present)",
+      "website": "",
+      "position": "Student Researcher",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Cooling of High power Density Electronics",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Contributed in a team to develop a cooling system for electronics, using micro-structured mesh and piezo electric transducers",
+        "Performed test section (ﬂow channel) and heater block simulations in conjunction with experimentally generated output to obtain the heat ﬂux and temperature distribution over the ﬂow channel using ANSYS FLUENT",
+        "Developed novel technology which has an increase in heat transfer eﬃciency by 700% and decrease in driving temperature diﬀerence by 80-90% compared to the conventional ﬂow-boiling approach"
       ]
     },
     {
-      "organization": "",
+      "organization": "Michigan Technological Univeristy (Nov 2018 - Jun 2019)",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "Student Researcher",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "Thermal Management of Electric Vehicle Battery",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Developed an eﬀective way to dissipate large amount of heat released from an electric vehicle battery during Ultra-Fast Charging (10-15 minutes for charging 50 KWh Li-Ion battery)",
+        "Designed a passive Cooling Cell using Phase Change Material(PCM) to maintain the battery cell temperature below 45◦C and temperature gradient across the battery cell below 5◦C",
+        "Performed multi-phase simulation using solidiﬁcation-liquefaction model to simulate melting of a phase change material and reduced the mushy zone using adaptive meshing technique"
       ]
     }
   ],
