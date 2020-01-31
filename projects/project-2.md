@@ -23,7 +23,7 @@ Successfully optimized the heat sink by finding a best case with a fin count of 
   <em>Table of Optimization, Candidate points</em>
 
   
- ## Reduced Ordered Model 
+## Reduced Ordered Model 
 Created a step response file using ANSYS Icepack and created a Reduced Ordered Model (ROM) in ANSYS Twin Builder to determine the temperature rise from 4 Field Effect Transistor (FET) placed on board which are thermally managed by forced convection
 Create a ROM which can efficiently calculate temperatures at the pre-defined outputs under any transient heat dissipation scenario
 
