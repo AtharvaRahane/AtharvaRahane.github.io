@@ -96,7 +96,7 @@
       "endDate": "2017",
     },
   ],
-  "work": [
+  "work Experience": [
     {
       "company": "Om Sai Tools (Jan - Jun 2018)",
       "position": "Model Based System Engineer Intern",
@@ -138,11 +138,11 @@
       "summary": "Thermal Management of Electric Vehicle Battery",
       "highlights": [
         "Developed an eﬀective way to dissipate large amount of heat released from an electric vehicle battery during Ultra-Fast Charging",
-        "Designed a passive Cooling Cell using Phase Change Material(PCM) to maintain the battery cell temperature"        
+        "Designed a passive Cooling Cell using Phase Change Material(PCM) to maintain the battery cell temperature in the range of optimum operating conditions"        
       ]
     }
   ],
-  "awards": [
+  "Leadership": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
