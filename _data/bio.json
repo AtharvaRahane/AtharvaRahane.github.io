@@ -51,37 +51,41 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming",
       "level": "",
       "keywords": [
-        "C",
+        "Matlab",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "R"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "ANSYS Fluent",
+        "ANSYS CFX",
+        "ANSYS Icepack",
+        "ANSYS ICEM CFD",
+        "ANSYS Structural",
+        "Solidworks",
+        "Pro-E",
+        "Mathematica",
+        "AutoCAD",
+        "LaTeX",
+        "LabVIEW"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Michigan Technological University, Houghton, MI",
+      "area": "Mechanical Engineering (expected May, 2020)",
+      "studyType": "M.S.",
+      "startDate": "09-04-2018",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.84",
       "courses": [
       ]
     }
