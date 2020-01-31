@@ -12,7 +12,7 @@ labels:
 summary: Fluid Flow, Conduction, Convection, Radiation and Phase Change Processes.
 ---
 
-## RADIATION AND NATURAL CONVECTION
+## Radiation and Natural Convection
 In this project I Used surface to surface model in ANSYS Fluent to model a 3-D room with one heated wall and the room is subjected to radiative and convective heat transfer to the surrounding and computed the temperature patterns inside the room and wall heat flux
 
   <img class="ui image" src="../images/Capture1.PNG">
@@ -106,7 +106,7 @@ Investigated the air flow around an unmanned vehicle using Ansys Fluent.
 
   <em>Turbulence contour</em>
 
-## Measurement of Critical Velocity for the detachment of water droplet from the solid surface 
+## Measurement of Critical Velocity For The Detachment of Water Droplet From The Solid Surface 
 The liquid droplet adherence and detachment from a solid surface has received considerable attention due to its importance in many engineering applications such as surface decontamination, oil recovery, condensers, air conditioning systems etc.., In an air conditioning system if some liquid contaminants are detached from the ventilation duct surface and supplied to the room, then the supplied air quality would decrease which is not desirable. In oil recovery also this concept has applications, the oil recovery depends on the ability of the fluid to displace oil droplets. In condensers the liquid droplet detachment from the condensing surface is of much importance because the droplet has to be removed from the condensing surface so that new vapor comes into contact with the condensing surface. 
 
 
