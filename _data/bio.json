@@ -106,15 +106,15 @@
       "summary": "",
       "highlights": [
         "Developed a computational model using ANSYS for thermal analysis of multiple precision stamped electronic components",
-        "Prepared multiple simulation cases and studied the heat transmitted from the component to the electronic circuit board"
+        "Prepared multiple simulation cases and studied the heat transmitted by the electronic components to the circuit board"
       ]
     },
     {
       "company": "Allied Metal and Pressing",
       "position": "Thermal Intern",
       "website": "",
-      "startDate": "Jun 2017",
-      "endDate": "Nov 2017",
+      "startDate": "06/2017",
+      "endDate": "11/2017",
       "summary": "",
       "highlights": [
         "Performed thermal analysis on a Butt welded joint with temperature dependent thermal properties varying from 300K to 2000K",
