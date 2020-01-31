@@ -98,9 +98,9 @@
   ],
   "work": [
     {
-      "company": "Om Sai Tools (Jan - Jun 2018)", 
+      "company": "Om Sai Tools", 
       "position": "Model Based System Engineer Intern",
-      "startDate": "2013",
+      "startDate": "2018",
       "website": "",
       "summary": "",
       "highlights": [
@@ -108,8 +108,9 @@
       ]
     },
     {
-      "company": "Allied Metal and Pressing (Jun - Nov 2017)",
+      "company": "Allied Metal and Pressing",
       "position": "Thermal Intern",
+      "startDate": "2017",
       "website": "",
       "summary": "",
       "highlights": [
@@ -146,8 +147,6 @@
       "organization": "Michigan Technological Univeristy",
       "website": "",
       "position": "Teaching Assitant",
-      "startDate": "2019",
-      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Mentored 50+ students and conducted weekly laboratory experiments"              
