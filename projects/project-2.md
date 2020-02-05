@@ -20,7 +20,25 @@ In this projectI designed a cabinet with 5 heat source 3 fans and 10 fins with a
   
   <em>Model</em>
 
-
+  <img class="ui image" src="../images/blocktemp.png">
+  
+  <em>Temperature Contour</em>
+  
+  <img class="ui image" src="../images/velocityvector.png">
+  
+  <em>Velocity Vector With all 3 Fans Working</em>
+  
+  <img class="ui image" src="../images/VELOCITYVECTORWITHOUTFAN.PNG">
+  
+  <em>Velocity Vector With Failed Middle Fan</em>
+  
+  <img class="ui image" src="../images/summaryreport.PNG">
+  
+  <em>Summary Rport With all 3 Fans Working</em>
+  
+  <img class="ui image" src="../images/SUMMARYWOFAN.PNG">
+  
+  <em>Summary Rport With Failed Middle Fan</em>
 
 ## Minimizing Thermal Resistance
 In this project I Optimized a heat sink using ANSYS Icepack by minimizing the thermal resistance and reducing the amount of material with temperature constraint of 70 degree Celsius and restrained the total mass of the heat sink to 0.326 Kg
