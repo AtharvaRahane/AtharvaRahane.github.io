@@ -12,6 +12,16 @@ labels:
 summary: Electronic Cooling Simulations.
 ---
 
+## Finned Heat Sink
+In this projectI designed a cabinet with 5 heat source 3 fans and 10 fins with an objective that the devices should not exceed 65°C when air sweeps the fins at an ambient temperature of 20°C. I have also tested a scenario in which the middle fan fails and compared its result with the all 3 fans working.
+
+
+  <img class="ui image" src="../images/modelice1.png">
+  
+  <em>Model</em>
+
+
+
 ## Minimizing Thermal Resistance
 In this project I Optimized a heat sink using ANSYS Icepack by minimizing the thermal resistance and reducing the amount of material with temperature constraint of 70 degree Celsius and restrained the total mass of the heat sink to 0.326 Kg
 Developed a model composed of FR-4 board of 20.32 cm * 30.48 cm and 1.59 mm thick with CPU dissipating 50 W and a heat sink placed on top of it
