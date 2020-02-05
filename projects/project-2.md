@@ -13,7 +13,7 @@ summary: Electronic Cooling Simulations.
 ---
 
 ## Finned Heat Sink
-In this projectI designed a cabinet with 5 heat source 3 fans and 10 fins with an objective that the devices should not exceed 65°C when air sweeps the fins at an ambient temperature of 20°C. I have also tested a scenario in which the middle fan fails and compared its result with the all 3 fans working.
+In this project I designed a cabinet with 5 heat sources 3 fans and 10 fins with an objective that the base of the devices should not exceed 65°C when air sweeps the fins at an ambient temperature of 20°C. I have also tested a scenario in which the middle fan fails and compared its result when all 3 fans are working.
 
 
   <img class="ui image" src="../images/modelice1.png">
