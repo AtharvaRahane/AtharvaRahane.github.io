@@ -20,3 +20,7 @@ of maximum temperature in the domain has slightly increasing pattern over the si
 curves of discharge and maximum temperature in the domain, lowest and the highest rate of changes
 were seen for O.5 C and 5 C respectively.
 
+  <img class="ui image" src="../images/bat1.jpg">
+  
+  <em>Geometry and Mesh of a Single Battery Cell</em>
+
