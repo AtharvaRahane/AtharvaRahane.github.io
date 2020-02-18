@@ -83,4 +83,63 @@ The battery is charged from 20% to 80% cell state-of-charge (SOC) with charge ra
   <em>Geometry of the Battery Cell</em>
 
 
+  <img class="ui image" src="../images/bat10.png">
   
+  <em>Potential distribution in the positive metal foil (current collector and tab) at the beginning of
+  the 4C charge.</em>
+  
+  
+  <img class="ui image" src="../images/bat11.png">
+  
+  <em>Potential distribution in the negative metal foil (current collector and tab) at the beginning of
+the 4C charge.</em>
+
+
+  <img class="ui image" src="../images/bat12.png">
+  
+  <em>Current distribution in the middle of the separator at the beginning (t = 0 s) of the 4C charge.</em>
+
+
+  <img class="ui image" src="../images/bat13.png">
+  
+  <em>Current distribution in the middle of the separator at t = 315 s of the 4C charge.</em>
+  
+  
+  <img class="ui image" src="../images/bat14.png">
+  
+  <em>Current distribution in the middle of the separator at end t = 630 s of the 4C charge.</em>
+  
+  
+  <img class="ui image" src="../images/bat15.png">
+  
+  <em>Current distribution in the middle of the separator at the beginning (t = 0 s) of the 1C charge.</em>
+  
+  
+  <img class="ui image" src="../images/bat16.png">
+  
+  <em>Current distribution in the middle of the separator at t = 1260 s of the 1C charge.</em>
+  
+  
+  <img class="ui image" src="../images/bat17.png">
+  
+  <em>Current distribution in the middle of the separator at end t = 2520 s of the 1C charge.</em>
+  
+  
+  <img class="ui image" src="../images/bat18.png">
+  
+  <em>Relative electrode utilization at t = 315 s during 4C charge.</em>
+  
+  
+  <img class="ui image" src="../images/bat19.png">
+  
+  <em>Relative electrode utilization at t = 630 s during 4C charge.</em>
+  
+  
+  <img class="ui image" src="../images/bat20.png">
+  
+  <em>Relative electrode utilization at t = 1260 s during 1C charge.</em>
+  
+  
+  <img class="ui image" src="../images/bat21.png">
+  
+  <em> Relative electrode utilization at t = 2520 s during 1C charge.</em>
