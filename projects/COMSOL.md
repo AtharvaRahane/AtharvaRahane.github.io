@@ -61,4 +61,22 @@ were seen for O.5 C and 5 C respectively.
   <em>Battery Temperature for Pulse Discharge</em>
   
   
+## Electrode Utilization in a Large Format Lithium-Ion Battery Pouch Cell Using COMSOL
+Most of the electric vehicle batteries are Lithium-ion batteries. The most used cell design type is the pouch
+cell because of its flexibility in sizing as well as stacking. But this flexibility also has a drawback. As the size
+and power of a cell is increased the voltage gradients in the highly conductive metal foil current collectors
+cause a nonuniform current distribution and electrode utilization in the cell. This leads to a sub-optimal
+use and aging of electrode. I have modeled the current distribution and electrode utilization of such a high
+power and large lithium-ion cell in COMSOL.
+The geometry is a foil to foil unit cell stacking 5 layers in the Z direction which is symmetric along the
+center line.
+Negative metal current collector foil: 10 µm, Cu
+Negative electrode: 60 µm, graphite
+Separator: 30 µm
+Positive electrode: 60 µm, LMO
+Positive metal current collector foil: 10 µm, Al
+The electrolyte is LiPF6 in 3:7 EC:EMC
+The battery is charged from 20% to 80% cell state-of-charge (SOC) with charge rates of 1C and 4C.
+
+
   
