@@ -24,3 +24,41 @@ were seen for O.5 C and 5 C respectively.
   
   <em>Geometry and Mesh of a Single Battery Cell</em>
 
+
+  <img class="ui image" src="../images/bat2.jpg">
+  
+  <em>Contour Plot of Phase Potential for the Positive Electrode</em>
+  
+  
+  <img class="ui image" src="../images/bat3.jpg">
+  
+  <em>Contour Plot of Phase Potential for the Negative Electrode</em>
+  
+  
+  <img class="ui image" src="../images/bat4.jpg">
+  
+  <em>Contour Plot of Temperature</em>
+  
+  
+  <img class="ui image" src="../images/bat5.jpg">
+  
+  <em>Vector Plot of Current Density</em>
+  
+  
+  <img class="ui image" src="../images/bat6.jpg">
+  
+  <em>NTGK Model of Discharge Curves</em>
+  
+  
+  <img class="ui image" src="../images/bat7.jpg">
+  
+  <em>NTGK Model of Temperature for Various Discharge Curves</em>
+  
+  
+  
+  <img class="ui image" src="../images/bat8.jpg">
+  
+  <em>Battery Temperature for Pulse Discharge</em>
+  
+  
+  
