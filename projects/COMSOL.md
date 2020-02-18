@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/CHIP.jpg
+image: images/bat1.jpg
 title: Battery Engineering
 permalink: projects/COMSOL
 # All dates must be YYYY-MM-DD format!
