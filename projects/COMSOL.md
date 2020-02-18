@@ -154,3 +154,36 @@ increasing potential losses due to the resistance of the growing SEI film on the
 as the effect of reduced electrolyte volume fraction on the electrolyte charge transport.
 
 
+  <img class="ui image" src="../images/bat22.png">
+  
+  <em>Cell voltage during discharge for different cycle numbers</em>
+  
+  
+  
+  <img class="ui image" src="../images/bat23.png">
+  
+  <em>Capacity versus total accumulated cycling time.</em>
+  
+  
+  
+  <img class="ui image" src="../images/bat24.png">
+  
+  <em>Capacity versus cycle number.</em>
+  
+  
+  
+  <img class="ui image" src="../images/bat25.png">
+  
+  <em>Electrolyte volume fraction versus cycle number.</em>
+  
+  
+  
+  <img class="ui image" src="../images/bat26.png">
+  
+  <em>SEI film potential drop versus cycle number.</em>
+  
+  
+  
+  <img class="ui image" src="../images/bat27.png">
+  
+  <em>Local state-of-charge on the separator-electrode boundaries.</em>
