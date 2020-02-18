@@ -143,3 +143,14 @@ the 4C charge.</em>
   <img class="ui image" src="../images/bat21.png">
   
   <em> Relative electrode utilization at t = 2520 s during 1C charge.</em>
+  
+## Aging of Lithium-Ion Battery
+Complex multiple reaction occurring simultaneously at different places under various load cycle and other
+variables may lead to capacity loss resulting in aging of lithium-ion batteries. Cell materials of varying
+composition age differently. This combination may result in further cross-talk leading to accelerated aging.
+I modeled the aging in the negative graphite electrode, where a parasitic solid-electrolyte-interface (SEI)
+forming reaction results in irreversible loss of cyclable lithium. The model also includes the effect of an
+increasing potential losses due to the resistance of the growing SEI film on the electrode particles, as well
+as the effect of reduced electrolyte volume fraction on the electrolyte charge transport.
+
+
