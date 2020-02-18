@@ -78,5 +78,9 @@ Positive metal current collector foil: 10 µm, Al
 The electrolyte is LiPF6 in 3:7 EC:EMC
 The battery is charged from 20% to 80% cell state-of-charge (SOC) with charge rates of 1C and 4C.
 
+  <img class="ui image" src="../images/bat9.png">
+  
+  <em>Geometry of the Battery Cell</em>
+
 
   
